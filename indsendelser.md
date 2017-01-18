@@ -35,11 +35,11 @@ Find indsendelser, der er blevet publiceret eller afvist. Alle indsendelser, der
 
 ## Tips i forbindelse med indsendelser {#ind6}
 
-Søgning i lange lister
+### Søgning i lange lister
 
 Hver indsendelsesliste har et søgefelt, der gør det muligt at sortere listen. Man kan gennemse listen ved at sortere på det enkelte trin, eller man kan søge specifikt på titler eller forfattere.
 
-Indsendelseshistorik
+### Indsendelseshistorik
 
 Fra enhver af disse lister kan du se de noter og den historik, der knytter sig til den redaktionelle proces. Klik på pilen \(trekanten\) ud for den enkelte indsendelse og vælg linket ’Mere information’, der giver adgang til disse oplysninger.
 
