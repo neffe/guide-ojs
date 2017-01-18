@@ -17,7 +17,7 @@ I højre side af skærmbilledet vælges ’Ny indsendelse’ for at påbegynde e
 
 Hvis du er logget ind, men ikke finder indsendelsessiden, kan du være placeret på tidsskriftets læserside. Er det tilfældet, skal du finde linket til din brugerprofil \(’Se profil’\) og dernæst klikke på linket ’Indsendelser’ i venstremenuen.
 
-At foretage en ny indsendelse er en nem fem-trins proces. Følg instruktionerne på de enkelte sider for at fuldføre processen. 
+At foretage en ny indsendelse er en nem fem-trins proces. Følg instruktionerne på de enkelte sider for at fuldføre processen.
 
 ### Start
 
@@ -53,11 +53,13 @@ Du kan tilføje bidragydere ved at klikke på linket ’Tilføj bidragydere’
 
 Tag dig tid til at gennemse de oplysninger, du har indsat. Du kan stadig vende tilbage til ethvert af de tidligere trin for at ændre de oplysninger, du har indsat.
 
-### Næste trin
+### 
+
+Næste trin
 
 Indsendelsen er afsluttet. Hvis du vil læse mere om at følge dit indsendelse, gå til næste afsnit.
 
-## Følg din indsendelse {#au4}
+## Følg din indsendelse {#au4}
 
 Mens din indsendelse er under bedømmelse, kan du holde øje med dens status ved at logge på websiden og vælge siden ’Indsendelser’.
 
@@ -65,7 +67,7 @@ Her finder du dine indsendelser opført efter det aktuelle trin, de befinder sig
 
 ### Drøftelser
 
-På hvert trin har du adgang til drøftelsesrunder. Hvis en redaktør eller redaktørassistent har brug for mere information fra dig, kan de åbne en drøftelse/diskussion. Sker det, vil du blive informeret via e-mail, så du kan svare. 
+På hvert trin har du adgang til drøftelsesrunder. Hvis en redaktør eller redaktørassistent har brug for mere information fra dig, kan de åbne en drøftelse/diskussion. Sker det, vil du blive informeret via e-mail, så du kan svare.
 
 På de fleste trin kan du ikke selv indlede en drøftelse, de opstår på redaktørernes initiativ.
 
@@ -74,8 +76,4 @@ På de fleste trin kan du ikke selv indlede en drøftelse, de opstår på redakt
 Under bedømmelsesfasen kan du øverst se en statusopdatering, som holder dig informeret, sideløbende med at bedømmere kontaktes og tilføjes og efterfølgende indsender deres bedømmelser.
 
 Under bedømmelsesfasen kan du blive bedt om at indsende en revision, der skal imødegå anførte indvendinger. Hvis det er nødvendigt, kan du finde et revisionsfelt, hvor du kan uploade filer til redaktøren.
-
-
-
-
 
