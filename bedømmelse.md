@@ -19,15 +19,15 @@ I mange tilfælde kan du allerede have været tilføjet systemet som bedømmer. 
 
 Du kan se, om du er blevet bedt om at foretage en bedømmelse ved at gå til siden ’Indsendelser’ under de redaktionelle sider \(Dashboard\). Hvis der ligger indsendelser i feltet ’Mine tildelte’ kan du klikke på det link, der indikerer hvilket trin de er nået i bedømmelsesprocessen.
 
-Anmodning
+### Anmodning
 
 Det første trin beder dig om at acceptere eller afvise anmodningen om at forestå bedømmelsen. Du vil her finde de relevante indsendelsesoplysninger, såvel som tidsfrist for svar på anmodning og færdiggørelse af bedømmelse.
 
-Retningslinjer
+### Retningslinjer
 
 Læs venligst eventuelle retningslinjer for bedømmelser, som tidsskriftet måtte have indskrevet, for at sikre, at du er i stand til levere en bedømmelse i overensstemmelse med ønskede formater og standarder.
 
-Download og bedømmelse
+### Download og bedømmelse
 
 Her finder du bedømmelsesfilerne, som du kan downloade og bedømme på denne side. Når du har vurderet filerne, bedes du indskrive din bedømmelse i de to tekstbokse.
 
@@ -39,7 +39,7 @@ Hvis du har indsat din bedømmelse i en særskilt fil, kan den i stedet uploades
 
 Allernederst skal bedømmeren vælge en anbefaling til manuskriptet blandt følgende valgmuligheder: Acceptér, Rettelser er påkrævet, Fremsend igen til bedømmelse, Fremsend igen til andet sted/anden bedømmer, Afvis manuskript, Se kommentarer. Når bedømmeren klikker på "Fremsend bedømmelse til redaktør", åbnes en forberedt e-mail til redaktøren, og redaktøren kan se anbefalingen, den gemte bedømmelse \(som nu er låst\) og andre overførte filer. E-mailen kan redigeres af bedømmeren, inden den sendes.
 
-Afslutning
+### Afslutning
 
 Du har færdiggjort din bedømmelse. Tak for din hjælp til at sikre kvaliteten af vores videnskabelige udgivelser.
 
