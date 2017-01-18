@@ -13,7 +13,7 @@ Hvert faneblad i workflowet giver dig adgang til den information, de værktøjer
 
 Indsendelsesdetaljer vises øverst på siden. Her findes værktøjer til at håndtere indsendelsens metadata og redaktionelle historik. De data, der herfra knyttes til indsendelsen forbliver indskrevet på alle trin i den redaktionelle proces.
 
-Metadata
+### Metadata
 
 Metadatasiden indeholder to faneblade: ’Indsendelse’ og ’Identifikator’.
 
@@ -21,11 +21,11 @@ Indsendelse indeholder metadata, såsom artiklens titel, resumé, bidragsydere o
 
 Under ’Identifikator’ kan der indsættes en ’Public URL identifier’.
 
-Redaktionel historik
+### Redaktionel historik
 
 Tilføj noter til eventuel senere dokumentation og se en log over alle handlinger knyttet til denne indsendelse. Kun redaktionelle og administrative brugere har adgang til ’Redaktionel historik’.
 
-Indsendelsesbibliotek
+### Indsendelsesbibliotek
 
 Et arkiv med kvik-adgang til enhver fil, som du måtte ønske at knytte til indsendelsen. Dette kan anvendes til filer, der ikke er tilknyttet noget trin, såsom underskrevne kontrakter, marketingsfiler eller retningslinjer, som du ønsker at dele med manuskriptredaktører og andre medarbejdere.
 
