@@ -3,7 +3,7 @@
 1. Overblik
 2. Starthjælp
 3. [Foretag en indsendelse](#foretag-en-indsendelse)
-4. [Følg indsendelse](/Følg indsendelse)
+4. [Følg indsendelse](#følg-din-indsendelse)
 
 ## Overblik {#orientation}
 
