@@ -6,4 +6,5 @@
 * [Bedømmelse](bedømmelse.md)
 * [Indsendelser](indsendelser.md)
 * [Det redaktionelle workflow](det-redaktionelle-workflow.md)
+* [Indsendelsestrinnet](indsendelsestrinnet.md)
 
