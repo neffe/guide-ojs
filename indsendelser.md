@@ -11,7 +11,7 @@ Du kan tilgå alle de indsendelser, der aktuelt er under behandling via siden �
 
 Redaktionelle og administrative brugere har også adgang til alle publicerede og arkiverede indsendelser og kvik-adgang til de fælles indsendelser, for hurtigt at kunne administrere det redaktionelle workflow.
 
-## Påbegynd en ny indsendelse {#ind2}
+## Påbegynd en ny indsendelse {#ind2}
 
 Du kan påbegynde en ny indsendelse ved at klikke på knappen ’Ny indsendelse’, som vises under fanebladet ’Min kø’.
 
@@ -42,6 +42,4 @@ Hver indsendelsesliste har et søgefelt, der gør det muligt at sortere listen. 
 Indsendelseshistorik
 
 Fra enhver af disse lister kan du se de noter og den historik, der knytter sig til den redaktionelle proces. Klik på pilen \(trekanten\) ud for den enkelte indsendelse og vælg linket ’Mere information’, der giver adgang til disse oplysninger.
-
-
 
