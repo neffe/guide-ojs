@@ -53,9 +53,7 @@ Du kan tilføje bidragydere ved at klikke på linket ’Tilføj bidragydere’
 
 Tag dig tid til at gennemse de oplysninger, du har indsat. Du kan stadig vende tilbage til ethvert af de tidligere trin for at ændre de oplysninger, du har indsat.
 
-### 
-
-Næste trin
+### Næste trin
 
 Indsendelsen er afsluttet. Hvis du vil læse mere om at følge dit indsendelse, gå til næste afsnit.
 
