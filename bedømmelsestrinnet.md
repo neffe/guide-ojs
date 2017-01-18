@@ -2,8 +2,7 @@
 
 1. Introduktion
 2. [Orientering](#orientering)
-3. \[Redaktionelle muligheder\]\(\#redaktionelle-valgmuligheder
-   \)
+3. [Redaktionelle muligheder](#redaktionelle-valgmuligheder)
 
 Under bedømmelsestrinnet udvælger redaktøren bedømmere til indsendelsen.
 
