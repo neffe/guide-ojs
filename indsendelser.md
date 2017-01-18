@@ -1,21 +1,21 @@
 # Indsendelser
 
 1. Introduktion
-2. [Påbegynd en ny indsendelse](/ind2)
-3. [Min kø](/ind3)
+2. [Påbegynd en ny indsendelse](#påbegynd-en-ny-indsendelse)
+3. [Min kø](#min-kø)
 4. [Alle aktive](/ind4)
-5. [Arkiver](/ind5)
-6. [Tips i forbindelse med indsendelse](/ind6)
+5. [Arkiver](#arkiver)
+6. [Tips i forbindelse med indsendelse](#tips-i-forbindelse-med-indsendelser)
 
 Du kan tilgå alle de indsendelser, der aktuelt er under behandling via siden ’Indsendelser’.
 
 Redaktionelle og administrative brugere har også adgang til alle publicerede og arkiverede indsendelser og kvik-adgang til de fælles indsendelser, for hurtigt at kunne administrere det redaktionelle workflow.
 
-## Påbegynd en ny indsendelse {#ind2}
+## Påbegynd en ny indsendelse
 
 Du kan påbegynde en ny indsendelse ved at klikke på knappen ’Ny indsendelse’, som vises under fanebladet ’Min kø’.
 
-## Min Kø {#ind3}
+## Min Kø
 
 Dette faneblad viser de indsendelser der løbende tildeles dig. Det hjælper dig med at følge dine dag til dag aktiviteter.
 
@@ -25,15 +25,15 @@ Andre redaktionelle eller administrative brugere kan se feltet ’Mine tildelte�
 
 Alle brugere kan se feltet ’Mine indsendelser’, som kun indeholder ens egne indsendelser.
 
-## Alle aktive {#ind4}
+## Alle aktive
 
 Find enhver indsendelse, der endnu ikke er blevet publiceret eller afvist. Kun redaktionelle og administrative brugere har adgang til dette faneblad.
 
-## Arkiver {#ind5}
+## Arkiver
 
 Find indsendelser, der er blevet publiceret eller afvist. Alle indsendelser, der ikke længere er en aktiv del af det redaktionelle workflow, kan findes her.
 
-## Tips i forbindelse med indsendelser {#ind6}
+## Tips i forbindelse med indsendelser
 
 ### Søgning i lange lister
 
