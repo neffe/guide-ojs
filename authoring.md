@@ -2,8 +2,8 @@
 
 1. Overblik
 2. Starthjælp
-3. [Foretag en indsendelse](/au3)
-4. [Følg indsendelse](/au4)
+3. [Foretag en indsendelse](#foretag-en-indsendelse)
+4. [Følg indsendelse](#følg-din-indsendelse)
 
 ## Overblik {#orientation}
 
@@ -13,7 +13,7 @@ Når du er logget ind som forfatter, vil du se to felter: ’Mine tildelte’ og
 
 I højre side af skærmbilledet vælges ’Ny indsendelse’ for at påbegynde en ny indsendelse.
 
-## Foretag en indsendelse {#au3}
+## Foretag en indsendelse
 
 Hvis du er logget ind, men ikke finder indsendelsessiden, kan du være placeret på tidsskriftets læserside. Er det tilfældet, skal du finde linket til din brugerprofil \(’Se profil’\) og dernæst klikke på linket ’Indsendelser’ i venstremenuen.
 
@@ -59,7 +59,7 @@ Næste trin
 
 Indsendelsen er afsluttet. Hvis du vil læse mere om at følge dit indsendelse, gå til næste afsnit.
 
-## Følg din indsendelse {#au4}
+## Følg din indsendelse
 
 Mens din indsendelse er under bedømmelse, kan du holde øje med dens status ved at logge på websiden og vælge siden ’Indsendelser’.
 
