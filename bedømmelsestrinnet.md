@@ -1,8 +1,9 @@
 # Bedømmelsestrinnet
 
 1. Introduktion
-2. [Orientering](/bedtrin2)
-3. [Redaktionelle muligheder](#redaktionelle-valgmuligheder   )
+2. [Orientering](#orientering)
+3. \[Redaktionelle muligheder\]\(\#redaktionelle-valgmuligheder
+   \)
 
 Under bedømmelsestrinnet udvælger redaktøren bedømmere til indsendelsen.
 
@@ -10,7 +11,7 @@ Når bedømmerne har indsendt deres bedømmelser og anbefalinger, er det redakt�
 
 Som standard begynder bedømmelsestrinnet med ’Runde 1’. Yderligere bedømmelsesrunder kan igangsættes, hvis redaktøren kræver større ændringer, som kræver endnu en bedømmelsesrunde.
 
-## Orientering {#bedtrin2}
+## Orientering
 
 Hver bedømmelsesrunde er bygget op omkring felter, hvor filer og bedømmere administreres sammen med adgangen til drøftelser og deltagerlisten, hvor de to sidstnævnte vil være tilgængelige på alle niveauer.
 
@@ -24,7 +25,7 @@ Redaktøren kan tilføje bedømmere, angive tidsfrister og overvåge status og b
 
 Revisioner
 
-Reviderede filer uploadet af forfatteren. Under bedømmelsesprocessen kan redaktøren bede om revisioner fra forfatteren. Når de er uploadet, ses de her, hvor de kan sendes videre til manuskriptredigering efter af være bedømmelsesgodkendt. 
+Reviderede filer uploadet af forfatteren. Under bedømmelsesprocessen kan redaktøren bede om revisioner fra forfatteren. Når de er uploadet, ses de her, hvor de kan sendes videre til manuskriptredigering efter af være bedømmelsesgodkendt.
 
 Drøftelser under bedømmelse
 
@@ -44,8 +45,6 @@ Anmod om revision
 
 Redaktøren kan anmode forfatteren om en revision uden at påbegynde en ny bedømmelsesrunde. Dette er almindeligt, hvis der ønskes mindre revisioner, som redaktøren kan godkende, uden en ny bedømmelsesrunde.
 
-
-
 Fremsend igen til bedømmelse
 
 Redaktøren kan anmode om revisioner fra forfatteren, som kræver en ny bedømmelsesrunde. Så snart revisionerne er modtaget, skal en ny bedømmelsesrunde påbegyndes.
@@ -57,8 +56,4 @@ Redaktøren kan indlede manuskriptredigeringsprocessen, så snart indsendelsen e
 Afvis indsendelse
 
 Redaktøren kan afvise indsendelsen, hvis den ikke består bedømmelsesprocessen. Indsendelsen vil herefter blive fjernet fra det redaktionelle workflow og blive arkiveret.
-
-
-
-
 
