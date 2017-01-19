@@ -9,7 +9,7 @@ En bedømmer spiller en vigtig rolle i forbindelse med at sikre kvaliteten af vi
 
 ## At tilmelde sig som bedømmer
 
-Når du registrerer dig som bruger af websitet, kan du blive bedt om at indskrive dig som bedømmer. Hvis muligheden er aktiveret kan du til hver en[ tid](/Foretag en indsendelse) tilføje rollen som bedømmer, selvom du allerede har ladet dig registrere, ved at vælge brugerprofilsiden.
+Når du registrerer dig som bruger af websitet, kan du blive bedt om at indskrive dig som bedømmer. Hvis muligheden er aktiveret kan du til hver en tid tilføje rollen som bedømmer, selvom du allerede har ladet dig registrere, ved at vælge brugerprofilsiden.
 
 Du vil også blive bedt om at specificere dine bedømmerinteresser, så redaktørerne har en bedre chance for at vælge de rette bedømmere til en indsendelse.
 
