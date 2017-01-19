@@ -11,5 +11,5 @@
     * [Manuskriptredigering](manuskriptredigering.md)
     * [Produktion](produktion.md)
 * [Numre](numre.md)
-* Opgaver
+* [Opgaver](opgaver.md)
 
