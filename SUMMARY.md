@@ -10,7 +10,5 @@
     * [Bedømmelsestrinnet](bedømmelsestrinnet.md)
     * [Manuskriptredigering](manuskriptredigering.md)
     * [Produktion](produktion.md)
-    
-
-    
+* Numre [Numre](numre.md)
 
