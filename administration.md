@@ -1,8 +1,8 @@
 # Administration
 
 1. Introduktion
-2. [Tilknyttede tidsskrifter](#tilknyttede-tidsskrifter   )
-3. [Administrative funktioner](#administrative-funktioner   )
+2. [Tilknyttede tidsskrifter](#tilknyttede-tidsskrifter)
+3. [Administrative funktioner](#administrative-funktioner)
 
 Administrationen af websitet er begrænset til brugere med adgang til hele systemet. Administrationsopgaverne er ikke hyppige og kan udføres af tidsskriftschefer, seniorredaktører eller en dedikeret administrator.
 
@@ -35,6 +35,4 @@ Ryder alle gemte versioner af html-skabeloner. Denne funktion kan være nyttig, 
 ### Clear Scheduled Task Execution Logs
 
 Fjerne logfiler, der er skabt automatisk via planlagte services, såsom behandling af statistikker.
-
-
 
