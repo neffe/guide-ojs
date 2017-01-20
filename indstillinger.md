@@ -1,10 +1,10 @@
 # Indstillinger
 
 1. Introduktion
-2. Tidsskrift
-3. Website
-4. Workflow
-5. Distribuering
+2. [Tidsskrift](#tidsskrift)
+3. [Website](#website)
+4. [Workflow](#workflow)
+5. [Distribuering](#distribuering)
 
 Konfigurér dit website i overensstemmelse med dine behov.
 
@@ -64,7 +64,7 @@ OJS afsender en del e-mails under de forskellige trin i det redaktionelle workfl
 
 Opsætningen i dette afsnit tillader dig at redigere den signatur, der er vedhæftet hver e-mail, ligesom du kan ændre standardbeskederne i hver type e-mail.
 
-Hvis du er usikker på, hvad den enkelte e-mail skal bruges til, kan du se hvilken kontekst, den står i, ved at klikke på pilen/trekanten til venstre for e-mailen og dernæst klikke ’Redigér e-mail’. De fleste e-mails indeholder en kort beskrivelse af den sammenhæng, de indgår i. 
+Hvis du er usikker på, hvad den enkelte e-mail skal bruges til, kan du se hvilken kontekst, den står i, ved at klikke på pilen/trekanten til venstre for e-mailen og dernæst klikke ’Redigér e-mail’. De fleste e-mails indeholder en kort beskrivelse af den sammenhæng, de indgår i.
 
 Hvis du ønsker at gendanne en e-mailskabelon til dens standardopsætning, skal du bruge linket ’Nulstil’.
 
@@ -79,6 +79,4 @@ Under fanebladet ’Tilladelser’ finder du indstillinger, der omhandler ophavs
 Ophavsretten identificerer forfatteren eller ejeren af ophavsretten til den publicerede udgivelse, f.eks. Copyright \(c\) 2016 by Jane Smith.
 
 Licensen, der er knyttet til en udgivelse angiver brugerrettighederne for udgivelsen, f.eks. ”Navngivelse. Du lader andre kopiere, distribuere, vise og anvende dit værk – og afledte værker baseret på det – men brugeren skal kreditere værket på den måde, du har angivet”.
-
-
 
