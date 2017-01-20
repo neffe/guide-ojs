@@ -13,4 +13,5 @@
 * [Numre](numre.md)
 * [Opgaver](opgaver.md)
 * [Indstillinger](indstillinger.md)
+* [Brugere og roller](brugere-og-roller.md)
 
