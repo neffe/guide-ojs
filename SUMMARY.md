@@ -12,4 +12,5 @@
     * [Produktion](produktion.md)
 * [Numre](numre.md)
 * [Opgaver](opgaver.md)
+* [Indstillinger](indstillinger.md)
 
