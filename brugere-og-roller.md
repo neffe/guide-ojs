@@ -1,9 +1,9 @@
 # Brugere og roller
 
 1. Introduktion
-2. Brugere
-3. Roller
-4. Webstedets adgangsmuligheder
+2. [Brugere](#brugere)
+3. [Roller](#roller)
+4. [Webstedets adgangsmuligheder](#webstedets-adgangsmuligheder)
 
 Administrér dit tidsskrifts brugere, tildel dem roller og opret eller redigér eksisterende roller.
 
@@ -36,6 +36,4 @@ I tilknytning til adgangsniveauerne kan du begrænse roller til specifikt udvalg
 ## Webstedets adgangsmuligheder
 
 Under fanebladet ’Webstedets adgangsmuligheder’ kan du forhindre offentlig adgang til brugerregistrering eller begrænse adgangen til den læser-vendte del af websitet til kun at gælde registrerede brugere.
-
-
 
