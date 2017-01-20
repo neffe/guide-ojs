@@ -14,4 +14,5 @@
 * [Opgaver](opgaver.md)
 * [Indstillinger](indstillinger.md)
 * [Brugere og roller](brugere-og-roller.md)
+* [Værktøjer](værktøjer.md)
 
