@@ -7,7 +7,7 @@
 
 Det redaktionelle workflow tillader dig at overvåge en indsendelse fra den indledende vurdering, gennem bedømmelse, manuskriptredigering og til produktion, hvor det enkelte nummer klargøres til publikation.
 
-Hvert faneblad i workflowet giver dig adgang til den information, de værktøjer og indlæg \(drøftelser\), du behøver for at udføre de opgaver, der hører under det pågældende trin i den redaktionelle proces. Du kan tilføje flere deltagere. Du vil løbende blive præsenteret for et udvalg af redaktionelle valgmuligheder, der er relevant for det enkelte trin i processen.
+Hvert faneblad i workflowet giver dig adgang til den information, de værktøjer og indlæg \(drøftelser\), du behøver for at udføre de opgaver, der hører under det pågældende trin i den redaktionelle proces. Du kan [tilføje flere deltagere](#deltagere). Du vil løbende blive præsenteret for et udvalg af [redaktionelle valgmuligheder](#redaktionelle-valgmuligheder), der er relevant for det enkelte trin i processen.
 
 ## Håndtering af indsendelsesdetaljer
 
