@@ -1,8 +1,8 @@
 # Manuskriptredigering
 
 1. Introduktion
-2. Orientering
-3. Redaktionelle valgmuligheder
+2. [Orientering](#orientering)
+3. [Redaktionelle valgmuligheder](#redaktionelle-valgmuligheder)
 
 Under manuskriptredigeringen udvælger redaktøren en manuskriptredaktør til at redigere indsendelsesfilerne.
 
@@ -41,8 +41,4 @@ Der er kun én redaktionel mulighed til rådighed for redaktørerne på dette tr
 ### Send til produktion
 
 Redaktøren kan sende indsendelsen videre til produktionstrinnet, når de endelige, manuskriptredigerede filer er klar. Enhver fil indsat i feltet ’Manuskriptredigeret’ vil automatisk blive fremsendt, medmindre redaktøren vælger ikke at sende dem.
-
-
-
-
 
