@@ -43,5 +43,5 @@ I højre-menuen, på hvert trin i den redaktionelle proces, finder du en liste o
 
 Når du tilføjer en bruger, vil vedkommende have adgang til de trin hans rolle tillader. For eksempel vil en redaktør have adgang til alle trin, mens en manuskriptredaktør kun vil få adgang til manuskriptredigeringstrinnet.
 
-Du behøver ikke at tilføje bedømmere til deltagerlisten. Når du når frem til bedømmelsestrinnet, vil du kunne administrere bedømmerne via et mere egnet felt.
+Du behøver ikke at tilføje bedømmere til deltagerlisten. Når du når frem til [bedømmelsestrinnet](/bedømmelsestrinnet.md), vil du kunne administrere bedømmerne via et mere egnet felt.
 
