@@ -40,5 +40,5 @@ Der er kun én redaktionel mulighed til rådighed for redaktørerne på dette tr
 
 ### Send til produktion
 
-Redaktøren kan sende indsendelsen videre til produktionstrinnet, når de endelige, manuskriptredigerede filer er klar. Enhver fil indsat i feltet ’Manuskriptredigeret’ vil automatisk blive fremsendt, medmindre redaktøren vælger ikke at sende dem.
+Redaktøren kan sende indsendelsen videre til [produktionstrinnet](/produktion.md), når de endelige, manuskriptredigerede filer er klar. Enhver fil indsat i feltet ’[Manuskriptredigeret](#manuskriptredigeret)’ vil automatisk blive fremsendt, medmindre redaktøren vælger ikke at sende dem.
 
