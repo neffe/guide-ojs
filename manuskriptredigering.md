@@ -10,7 +10,7 @@ Manuskriptredaktøren, som ofte er en professionel, vil tilrette skrivestilen i 
 
 Dette er det sidste trin, inden du genererer et publiceringsklart format, som f.eks. PDF og ePub. Hvis du ikke har ressourcer til at engagere en professionel manuskriptredaktør, bør du på dette trin undersøge materialet nærmere, tjek det faktuelle, ret fejlene og kommunikér med forfatteren for at få præciseret uklare pointer.
 
-Tilføj manuskriptredaktøren ved at klikke på linket ’Tilføj’ i [deltagerfeltet](/det-redaktionelle-workflow.md#Deltagere).
+Tilføj manuskriptredaktøren ved at klikke på linket ’Tilføj’ i [deltagerfeltet](/det-redaktionelle-workflow.md#deltagere).
 
 ## Orientering
 
