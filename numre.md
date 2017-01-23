@@ -37,7 +37,7 @@ Her kan det enkelte nummers detaljer redigeres såsom indholdsfortegnelse, publi
 
 Her kan du omrokere artikler, planlagt til publicering i et nummer, eller omrokere hele sektioner, hvis du ønsker en sektion skal vises over en anden.
 
-Før en artikel kan vises her, skal du have klikket på knappen ’Planlæg publicering’ under produktionstrinnet
+Før en artikel kan vises her, skal du have klikket på knappen ’[Planlæg publicering](/produktion.md#publicér-indsendelsen)’ under produktionstrinnet
 
 ### Nummerdata
 
