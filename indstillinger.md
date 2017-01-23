@@ -52,7 +52,7 @@ Manuskript-metadata gør det muligt for dig at vælge hvilke typer metadata du �
 
 Herfra kan du opsætte din bedømmelsespolitik og relaterede regler, såsom tidsfrister, beskeder, retningslinjer osv.
 
-### Forlagsbibliotek
+### Forlagsbibliotek {#forlagsbibliotek}
 
 Forlagsbiblioteket stiller et filarkiv til rådighed, hvor du kan gemme og hurtigt dele gængse filer, såsom forfattervejledninger, forfatterkontrakter, tilladelser og marketingsmateriale.
 
