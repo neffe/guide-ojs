@@ -32,7 +32,7 @@ Redaktører kan også uploade filer til dette felt.
 
 ### Deltagere
 
-Redaktører kan tilføje manuskriptredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet.
+Redaktører kan tilføje manuskriptredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](/det-redaktionelle-workflow.md#deltagere).
 
 ## Redaktionelle valgmuligheder
 
