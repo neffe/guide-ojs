@@ -1,9 +1,9 @@
 # Numre
 
 1. Introduktion
-2. Fremtidige numre
-3. Tidligere numre
-4. Redigér et nummer
+2. [Fremtidige numre](#fremtidige-numre)
+3. [Tidligere numre](#tidligere-numre)
+4. [Redigér et nummer](#redigér-et-nummer)
 
 Fra denne side oprettes fremtidige numre og her kan tidligere numre administreres.
 
@@ -11,7 +11,7 @@ Hvert nummer opført på denne side kan udfoldes ved at klikke på pilen/trekant
 
 Herved fremkommer:
 
-**Redigér** – Administrér nummerets indhold og metadata.
+**Redigér** – [Administrér](#redigér-et-nummer) nummerets indhold og metadata.
 
 **Vis** – Spring til nummeret på websitet eller få en forhåndsvisning, hvis det endnu ikke er publiceret.
 
@@ -23,7 +23,7 @@ Herved fremkommer:
 
 Fra denne side kan du se fremtidige numre og oprette et nyt.
 
-Tidsskriftsnumre bør oprettes i god tid inden udgivelsestidspunktet så du kan planlægge artikler til publicering. Så snart du har lagt artikler ind i et nummer, vil du kunne organisere en indholdsfortegnelse. 
+Tidsskriftsnumre bør oprettes i god tid inden udgivelsestidspunktet så du kan planlægge artikler til publicering. Så snart du har lagt artikler ind i et nummer, vil du kunne organisere en indholdsfortegnelse.
 
 ## Tidligere numre
 
@@ -49,15 +49,13 @@ Hvis du ønsker det, kan du også lave en beskrivelse til det enkelte nummer og 
 
 Nogle tidsskrifter ønsker at give læseren mulighed for at hente hele nummeret ned samlet samtidig med, at de linker til hver enkelt artikel. Hvis du har en PDF eller et andet format med hele nummerets indhold, kan du tilføje det her.
 
-### Identifikationer
+### 
+
+Identifikationer
 
 ’Public URL Identifier’ er en tekstsignatur som bruges i dette nummers URL. Som standard får nummeret en URL der er baseret på dets numeriske ID, men hvis du ønsker at give den et mere læsbart navn, som f.eks. ’50 års jubilæumsnummeret’ giver det en pænere URL.
 
 Hvis du har aktiveret andre ’public ID plug-ins’ vil de fremtræde her, såfremt de understøtter ’public ID’ til det enkelte nummer.
 
 Det mest populære ’public ID’ er DOI. Hvis du har konfigureret dette plug-in til at give numrene et DOI, kan du på forhånd se og tildele et DOI her.
-
-
-
-
 
