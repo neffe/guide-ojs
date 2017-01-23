@@ -23,7 +23,7 @@ Herved fremkommer:
 
 Fra denne side kan du se fremtidige numre og oprette et nyt.
 
-Tidsskriftsnumre bør oprettes i god tid inden udgivelsestidspunktet så du kan planlægge artikler til publicering. Så snart du har [lagt artikler ind i et nummer](/produktion.md#publicér indsendelsen), vil du kunne organisere en indholdsfortegnelse.
+Tidsskriftsnumre bør oprettes i god tid inden udgivelsestidspunktet så du kan planlægge artikler til publicering. Så snart du har [lagt artikler ind i et nummer](/produktion.md#publicér-indsendelsen), vil du kunne organisere en indholdsfortegnelse.
 
 ## Tidligere numre
 
