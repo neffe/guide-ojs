@@ -9,8 +9,6 @@ Redaktøren kan udvælge en medredaktør ved at klikke på linket ’Tilføj’ 
 
 ## Redaktionelle valgmuligheder
 
-{\#indtrin2}
-
 ### Send til bedømmelse
 
 Videresend indsendelsen til [bedømmelsestrinnet](/bedømmelsestrinnet.md), hvor det vil blive peer reviewet.
