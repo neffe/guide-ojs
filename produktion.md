@@ -1,8 +1,8 @@
 # Produktion
 
 1. Introduktion
-2. [Orientering](#orientering   )
-3. [Publicering af indsendelsen](#publicér-indsendelsen   )
+2. [Orientering](#orientering)
+3. [Publicering af indsendelsen](#publicér-indsendelsen)
 
 Under produktionstrinnet kan redaktøren tilføje produktionsmedhjælpere, som skal hjælpe med at klargøre de færdigbearbejdede filer til produktion, kaldet satsskibe.
 
@@ -31,8 +31,4 @@ Redaktører kan tilføje produktionsmedarbejdere eller layoutredaktører ved at 
 Så snart du er klar til at publicere indsendelsen, skal du planlægge i hvilket nummer, den skal publiceres.
 
 Knappen ’Planlæg publicering’ vil gøre det muligt for dig at vælge et kommende nummer, indsætte publiceringsdato, vedhæfte licenstilladelser og tilføje sidetal, hvis det ønskes.
-
-
-
-
 
