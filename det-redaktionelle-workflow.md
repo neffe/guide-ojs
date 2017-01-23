@@ -29,7 +29,7 @@ Tilføj noter til eventuel senere dokumentation og se en log over alle handlinge
 
 Et arkiv med kvik-adgang til enhver fil, som du måtte ønske at knytte til indsendelsen. Dette kan anvendes til filer, der ikke er tilknyttet noget trin, såsom underskrevne kontrakter, marketingsfiler eller retningslinjer, som du ønsker at dele med manuskriptredaktører og andre medarbejdere.
 
-Du kan hurtigt tilføje filer fra ’Forlagsbibliotek’ ved at klikke på ’Se dokumentbibliotek’.
+Du kan hurtigt tilføje filer fra ’[Forlagsbibliotek](/indstillinger.md)’ ved at klikke på ’Se dokumentbibliotek’.
 
 ## Redaktionelle valgmuligheder
 
