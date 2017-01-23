@@ -28,7 +28,7 @@ Du kan også indstille websitets sproggrænseflader, arkiveringsopsætning, inst
 
 ## Workflow
 
-Konfigurér alle aspekter af det redaktionelle workflow, såsom filadministration, retningslinjer og krav til indsendelser, retningslinjer og tidsfrister for bedømmere, mail-beskeder og meget mere.
+Konfigurér alle aspekter af [det redaktionelle workflow](/det-redaktionelle-workflow.md), såsom filadministration, retningslinjer og krav til indsendelser, retningslinjer og tidsfrister for bedømmere, mail-beskeder og meget mere.
 
 Nogle af de centrale indstillinger er opdelt i detaljer nedenfor
 
@@ -56,7 +56,7 @@ Herfra kan du opsætte din bedømmelsespolitik og relaterede regler, såsom tids
 
 Forlagsbiblioteket stiller et filarkiv til rådighed, hvor du kan gemme og hurtigt dele gængse filer, såsom forfattervejledninger, forfatterkontrakter, tilladelser og marketingsmateriale.
 
-Alt hvad der er arkiveret i forlagsbiblioteket kan hurtigt hentes frem og tilføjes til Indsendelsesbiblioteket så det kan deles med forfattere eller medhjælpere.
+Alt hvad der er arkiveret i forlagsbiblioteket kan hurtigt hentes frem og tilføjes til [Indsendelsesbiblioteket](/det-redaktionelle-workflow.md) så det kan deles med forfattere eller medhjælpere.
 
 ### E-mails
 
