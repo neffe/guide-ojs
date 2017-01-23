@@ -26,7 +26,7 @@ Redaktører og manuskriptredaktører kan bruge dette felt til at diskutere med f
 
 ### Manuskriptredigeret
 
-Manuskriptredaktøren kan uploade de endeligt redigerede filer. Det bør her dreje sig om filer, der er klar til at blive sendt til produktionstrinnet.
+Manuskriptredaktøren kan uploade de endeligt redigerede filer. Det bør her dreje sig om filer, der er klar til at blive [sendt til produktionstrinnet](#send-til-produktion).
 
 Redaktører kan også uploade filer til dette felt.
 
