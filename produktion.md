@@ -24,7 +24,7 @@ Redaktører og produktionsmedhjælpere kan oprette publiceringsversioner \(satss
 
 ### Deltagere
 
-Redaktører kan tilføje produktionsmedarbejdere eller layoutredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. Læs mere.
+Redaktører kan tilføje produktionsmedarbejdere eller layoutredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](/det-redaktionelle-workflow.md#deltagere).
 
 ## Publicér indsendelsen
 
