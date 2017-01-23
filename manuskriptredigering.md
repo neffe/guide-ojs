@@ -6,11 +6,11 @@
 
 Under manuskriptredigeringen udvælger redaktøren en manuskriptredaktør til at redigere indsendelsesfilerne.
 
-Manuskriptredaktøren, som ofte er en professionel, vil tilrette skrivestilen i overensstemmelse med de redaktionelle retningslinjer, forbedre kvaliteten og forståelsen af det skrevne og udbedre det grammatiske, så indsendelsen er klar til at blive konverteret til publiceringsformat.
+Manuskriptredaktøren, som ofte er en professionel, vil tilrette skrivestilen i overensstemmelse med de redaktionelle retningslinjer, forbedre kvaliteten og forståelsen af det skrevne og udbedre det grammatiske, så indsendelsen er klar til at blive konverteret til [publiceringsformat](/produktion.md).
 
 Dette er det sidste trin, inden du genererer et publiceringsklart format, som f.eks. PDF og ePub. Hvis du ikke har ressourcer til at engagere en professionel manuskriptredaktør, bør du på dette trin undersøge materialet nærmere, tjek det faktuelle, ret fejlene og kommunikér med forfatteren for at få præciseret uklare pointer.
 
-Tilføj manuskriptredaktøren ved at klikke på linket ’Tilføj’ i deltagerfeltet.
+Tilføj manuskriptredaktøren ved at klikke på linket ’Tilføj’ i [deltagerfeltet](/det-redaktionelle-workflow.md#Deltagere).
 
 ## Orientering
 
