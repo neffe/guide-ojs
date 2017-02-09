@@ -14,6 +14,6 @@
 * [Opgaver](opgaver.md)
 * [Indstillinger](indstillinger.md)
 * [Brugere og roller](brugere-og-roller.md)
-* [Værktøjer](vaerktøjer.md)
+* [Værktøjer](vaerktoejer.md)
 * [Administration](administration.md)
 
