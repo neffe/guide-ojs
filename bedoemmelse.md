@@ -49,5 +49,5 @@ En registrering af dine bedømmelser bibeholdes i systemet, så redaktørerne ka
 
 ## Færdiggør din brugerprofil
 
-Du kan tilføje mere information om dig selv, hvis du mangler det. Det sikrer redaktørerne den information, de har brug for i valget af bedømmere. Læs mere under ’[Brugerprofil](/chapter1.md)’.
+Du kan tilføje mere information om dig selv, hvis du mangler det. Det sikrer redaktørerne den information, de har brug for i valget af bedømmere. Læs mere under ’[Brugerprofil](/brugerprofil.md)’.
 
