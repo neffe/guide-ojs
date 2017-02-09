@@ -3,7 +3,7 @@
 1. Introduktion
 2. [Påbegynd en ny indsendelse](#påbegynd-en-ny-indsendelse)
 3. [Min kø](#min-kø)
-4. [Alle aktive](/ind4)
+4. [Alle aktive](#alle-aktive)
 5. [Arkiver](#arkiver)
 6. [Tips i forbindelse med indsendelse](#tips-i-forbindelse-med-indsendelser)
 
