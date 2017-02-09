@@ -11,7 +11,7 @@ Redaktøren kan udvælge en medredaktør ved at klikke på linket ’Tilføj’ 
 
 ### Send til bedømmelse
 
-Videresend indsendelsen til [bedømmelsestrinnet](/bedømmelsestrinnet.md), hvor det vil blive peer reviewet.
+Videresend indsendelsen til [bedømmelsestrinnet](/bedoemmelsestrinnet.md), hvor det vil blive peer reviewet.
 
 ### Send til manuskriptredigering
 
