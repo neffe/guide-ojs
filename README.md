@@ -1,6 +1,6 @@
 # OJS 3.0 manual
 
-Hjælp til publicering af tidsskrifter og enkeltnumre med Open Journal Systems
+Hjælp til publicering af tidsskrifter og enkeltnumre med Open Journal Systems.
 
 Her gives en indledende oversigt over de enkelte trin i workflowet fra indsendelse til produktion samt uddybende baggrundsinformation om nogle af konfigurationsmulighederne. 
 
