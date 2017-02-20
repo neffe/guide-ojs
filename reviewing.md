@@ -9,7 +9,7 @@ En bedømmer spiller en vigtig rolle i forbindelse med at sikre kvaliteten af vi
 
 ## At tilmelde sig som bedømmer
 
-Når du registrerer dig som bruger af websitet, kan du blive bedt om at indskrive dig som bedømmer. Hvis muligheden er aktiveret kan du til hver en tid tilføje rollen som bedømmer, selvom du allerede har ladet dig registrere, ved at vælge [brugerprofilsiden](/brugerprofil.md).
+Når du registrerer dig som bruger af websitet, kan du blive bedt om at indskrive dig som bedømmer. Hvis muligheden er aktiveret kan du til hver en tid tilføje rollen som bedømmer, selvom du allerede har ladet dig registrere, ved at vælge [brugerprofilsiden](/user-profile.md).
 
 Du vil også blive bedt om at specificere dine bedømmerinteresser, så redaktørerne har en bedre chance for at vælge de rette bedømmere til en indsendelse.
 
@@ -49,5 +49,5 @@ En registrering af dine bedømmelser bibeholdes i systemet, så redaktørerne ka
 
 ## Færdiggør din brugerprofil
 
-Du kan tilføje mere information om dig selv, hvis du mangler det. Det sikrer redaktørerne den information, de har brug for i valget af bedømmere. Læs mere under ’[Brugerprofil](/brugerprofil.md)’.
+Du kan tilføje mere information om dig selv, hvis du mangler det. Det sikrer redaktørerne den information, de har brug for i valget af bedømmere. Læs mere under ’[Brugerprofil](/user-profile.md)’.
 
