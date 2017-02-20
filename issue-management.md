@@ -23,7 +23,7 @@ Herved fremkommer:
 
 Fra denne side kan du se fremtidige numre og oprette et nyt.
 
-Tidsskriftsnumre bør oprettes i god tid inden udgivelsestidspunktet så du kan planlægge artikler til publicering. Så snart du har [lagt artikler ind i et nummer](/produktion.md#publicér-indsendelsen), vil du kunne organisere en indholdsfortegnelse.
+Tidsskriftsnumre bør oprettes i god tid inden udgivelsestidspunktet så du kan planlægge artikler til publicering. Så snart du har [lagt artikler ind i et nummer](/production.md#publicér-indsendelsen), vil du kunne organisere en indholdsfortegnelse.
 
 ## Tidligere numre
 
@@ -37,7 +37,7 @@ Her kan det enkelte nummers detaljer redigeres såsom indholdsfortegnelse, publi
 
 Her kan du omrokere artikler, planlagt til publicering i et nummer, eller omrokere hele sektioner, hvis du ønsker en sektion skal vises over en anden.
 
-Før en artikel kan vises her, skal du have klikket på knappen ’[Planlæg publicering](/produktion.md#publicér-indsendelsen)’ under produktionstrinnet
+Før en artikel kan vises her, skal du have klikket på knappen ’[Planlæg publicering](/production.md#publicér-indsendelsen)’ under produktionstrinnet
 
 ### Nummerdata
 
