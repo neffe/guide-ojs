@@ -28,7 +28,7 @@ Du kan også indstille websitets sproggrænseflader, arkiveringsopsætning, inst
 
 ## Workflow
 
-Konfigurér alle aspekter af [det redaktionelle workflow](/det-redaktionelle-workflow.md), såsom filadministration, retningslinjer og krav til indsendelser, retningslinjer og tidsfrister for bedømmere, mail-beskeder og meget mere.
+Konfigurér alle aspekter af [det redaktionelle workflow](/editorial-workflow.md), såsom filadministration, retningslinjer og krav til indsendelser, retningslinjer og tidsfrister for bedømmere, mail-beskeder og meget mere.
 
 Nogle af de centrale indstillinger er opdelt i detaljer nedenfor
 
@@ -56,11 +56,11 @@ Herfra kan du opsætte din bedømmelsespolitik og relaterede regler, såsom tids
 
 Forlagsbiblioteket stiller et filarkiv til rådighed, hvor du kan gemme og hurtigt dele gængse filer, såsom forfattervejledninger, forfatterkontrakter, tilladelser og marketingsmateriale.
 
-Alt hvad der er arkiveret i forlagsbiblioteket kan hurtigt hentes frem og tilføjes til [Indsendelsesbiblioteket](/det-redaktionelle-workflow.md#indsendelsesbibliotek) så det kan deles med forfattere eller medhjælpere.
+Alt hvad der er arkiveret i forlagsbiblioteket kan hurtigt hentes frem og tilføjes til [Indsendelsesbiblioteket](/editoriak-workflow.md#indsendelsesbibliotek) så det kan deles med forfattere eller medhjælpere.
 
 ### E-mails
 
-OJS afsender en del e-mails under de forskellige trin i [det redaktionelle workflow](/det-redaktionelle-workflow.md), det samme gør sig gældende ved registrering og tilbagemeldinger.
+OJS afsender en del e-mails under de forskellige trin i [det redaktionelle workflow](/editoriak-workflow.md), det samme gør sig gældende ved registrering og tilbagemeldinger.
 
 Opsætningen i dette afsnit tillader dig at redigere den signatur, der er vedhæftet hver e-mail, ligesom du kan ændre standardbeskederne i hver type e-mail.
 
