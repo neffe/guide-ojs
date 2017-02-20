@@ -60,7 +60,7 @@ Alt hvad der er arkiveret i forlagsbiblioteket kan hurtigt hentes frem og tilfø
 
 ### E-mails
 
-OJS afsender en del e-mails under de forskellige trin i [det redaktionelle workflow](/editoriak-workflow.md), det samme gør sig gældende ved registrering og tilbagemeldinger.
+OJS afsender en del e-mails under de forskellige trin i [det redaktionelle workflow](/editorial-workflow.md), det samme gør sig gældende ved registrering og tilbagemeldinger.
 
 Opsætningen i dette afsnit tillader dig at redigere den signatur, der er vedhæftet hver e-mail, ligesom du kan ændre standardbeskederne i hver type e-mail.
 
