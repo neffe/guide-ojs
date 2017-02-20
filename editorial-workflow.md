@@ -29,7 +29,7 @@ Tilføj noter til eventuel senere dokumentation og se en log over alle handlinge
 
 Et arkiv med kvik-adgang til enhver fil, som du måtte ønske at knytte til indsendelsen. Dette kan anvendes til filer, der ikke er tilknyttet noget trin, såsom underskrevne kontrakter, marketingsfiler eller retningslinjer, som du ønsker at dele med manuskriptredaktører og andre medarbejdere.
 
-Du kan hurtigt tilføje filer fra ’[Forlagsbibliotek](/indstillinger.md#forlagsbibliotek)’ ved at klikke på ’Se dokumentbibliotek’.
+Du kan hurtigt tilføje filer fra ’[Forlagsbibliotek](/settings.md#forlagsbibliotek)’ ved at klikke på ’Se dokumentbibliotek’.
 
 ## Redaktionelle valgmuligheder
 
@@ -43,5 +43,5 @@ I højre-menuen, på hvert trin i den redaktionelle proces, finder du en liste o
 
 Når du tilføjer en bruger, vil vedkommende have adgang til de trin hans rolle tillader. For eksempel vil en redaktør have adgang til alle trin, mens en manuskriptredaktør kun vil få adgang til manuskriptredigeringstrinnet.
 
-Du behøver ikke at tilføje bedømmere til deltagerlisten. Når du når frem til [bedømmelsestrinnet](/bedoemmelsestrinnet.md), vil du kunne administrere bedømmerne via et mere egnet felt.
+Du behøver ikke at tilføje bedømmere til deltagerlisten. Når du når frem til [bedømmelsestrinnet](/review.md), vil du kunne administrere bedømmerne via et mere egnet felt.
 
