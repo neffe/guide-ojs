@@ -17,7 +17,7 @@ I mange tilfælde kan du allerede have været tilføjet systemet som bedømmer. 
 
 ## Færdiggør en bedømmelse
 
-Du kan se, om du er blevet bedt om at foretage en bedømmelse ved at gå til siden ’[Indsendelser](/indsendelser.md)’ under de redaktionelle sider \(Dashboard\). Hvis der ligger indsendelser i feltet ’Mine tildelte’ kan du klikke på det link, der indikerer hvilket trin de er nået i bedømmelsesprocessen.
+Du kan se, om du er blevet bedt om at foretage en bedømmelse ved at gå til siden ’[Indsendelser](/submissions.md)’ under de redaktionelle sider \(Dashboard\). Hvis der ligger indsendelser i feltet ’Mine tildelte’ kan du klikke på det link, der indikerer hvilket trin de er nået i bedømmelsesprocessen.
 
 ### Anmodning
 
