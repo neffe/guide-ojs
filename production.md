@@ -12,7 +12,7 @@ Produktionstrinnet stiller tre felter til rådighed til oprettelse af filer klar
 
 ### Produktionsklare filer
 
-Alle filer, valgt af redaktøren til produktion, vises her. Det drejer sig typisk om filer, der er blevet klargjort under [manuskriptredigeringstrinnet](/manuskriptredigering.md). Produktionsmedarbejderne vil bruge disse filer til at generere de endelige publikationsformater.
+Alle filer, valgt af redaktøren til produktion, vises her. Det drejer sig typisk om filer, der er blevet klargjort under [manuskriptredigeringstrinnet](/copyediting.md). Produktionsmedarbejderne vil bruge disse filer til at generere de endelige publikationsformater.
 
 ### Drøftelser under produktion
 
@@ -24,7 +24,7 @@ Redaktører og produktionsmedhjælpere kan oprette publiceringsversioner \(satss
 
 ### Deltagere
 
-Redaktører kan tilføje produktionsmedarbejdere eller layoutredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](/det-redaktionelle-workflow.md#deltagere).
+Redaktører kan tilføje produktionsmedarbejdere eller layoutredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](/editorial-workflow.md#deltagere).
 
 ## Publicér indsendelsen
 
