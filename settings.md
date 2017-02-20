@@ -56,7 +56,7 @@ Herfra kan du opsætte din bedømmelsespolitik og relaterede regler, såsom tids
 
 Forlagsbiblioteket stiller et filarkiv til rådighed, hvor du kan gemme og hurtigt dele gængse filer, såsom forfattervejledninger, forfatterkontrakter, tilladelser og marketingsmateriale.
 
-Alt hvad der er arkiveret i forlagsbiblioteket kan hurtigt hentes frem og tilføjes til [Indsendelsesbiblioteket](/editoriak-workflow.md#indsendelsesbibliotek) så det kan deles med forfattere eller medhjælpere.
+Alt hvad der er arkiveret i forlagsbiblioteket kan hurtigt hentes frem og tilføjes til [Indsendelsesbiblioteket](/editorial-workflow.md#indsendelsesbibliotek) så det kan deles med forfattere eller medhjælpere.
 
 ### E-mails
 
