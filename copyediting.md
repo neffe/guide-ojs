@@ -6,11 +6,11 @@
 
 Under manuskriptredigeringen udvælger redaktøren en manuskriptredaktør til at redigere indsendelsesfilerne.
 
-Manuskriptredaktøren, som ofte er en professionel, vil tilrette skrivestilen i overensstemmelse med de redaktionelle retningslinjer, forbedre kvaliteten og forståelsen af det skrevne og udbedre det grammatiske, så indsendelsen er klar til at blive konverteret til [publiceringsformat](/produktion.md).
+Manuskriptredaktøren, som ofte er en professionel, vil tilrette skrivestilen i overensstemmelse med de redaktionelle retningslinjer, forbedre kvaliteten og forståelsen af det skrevne og udbedre det grammatiske, så indsendelsen er klar til at blive konverteret til [publiceringsformat](/production.md).
 
 Dette er det sidste trin, inden du genererer et publiceringsklart format, som f.eks. PDF og ePub. Hvis du ikke har ressourcer til at engagere en professionel manuskriptredaktør, bør du på dette trin undersøge materialet nærmere, tjek det faktuelle, ret fejlene og kommunikér med forfatteren for at få præciseret uklare pointer.
 
-Tilføj manuskriptredaktøren ved at klikke på linket ’Tilføj’ i [deltagerfeltet](/det-redaktionelle-workflow.md#deltagere).
+Tilføj manuskriptredaktøren ved at klikke på linket ’Tilføj’ i [deltagerfeltet](/editorial-workflow.md#deltagere).
 
 ## Orientering
 
@@ -32,7 +32,7 @@ Redaktører kan også uploade filer til dette felt.
 
 ### Deltagere
 
-Redaktører kan tilføje manuskriptredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](/det-redaktionelle-workflow.md#deltagere).
+Redaktører kan tilføje manuskriptredaktører ved at klikke på linket ’Tilføj’ i deltagerfeltet. [Læs mere](/editorial-workflow.md#deltagere).
 
 ## Redaktionelle valgmuligheder
 
@@ -40,5 +40,5 @@ Der er kun én redaktionel mulighed til rådighed for redaktørerne på dette tr
 
 ### Send til produktion
 
-Redaktøren kan sende indsendelsen videre til [produktionstrinnet](/produktion.md), når de endelige, manuskriptredigerede filer er klar. Enhver fil indsat i feltet ’[Manuskriptredigeret](#manuskriptredigeret)’ vil automatisk blive fremsendt, medmindre redaktøren vælger ikke at sende dem.
+Redaktøren kan sende indsendelsen videre til [produktionstrinnet](/production.md), når de endelige, manuskriptredigerede filer er klar. Enhver fil indsat i feltet ’[Manuskriptredigeret](#manuskriptredigeret)’ vil automatisk blive fremsendt, medmindre redaktøren vælger ikke at sende dem.
 
