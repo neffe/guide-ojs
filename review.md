@@ -50,7 +50,7 @@ Redaktøren kan anmode om revisioner fra forfatteren, som kræver en ny bedømme
 
 ### Send til manuskriptredigering
 
-Redaktøren kan indlede [manuskriptredigeringsprocessen](/manuskriptredigering.md), så snart indsendelsen er blevet godkendt på bedømmelsesniveauet.
+Redaktøren kan indlede [manuskriptredigeringsprocessen](/copyediting.md), så snart indsendelsen er blevet godkendt på bedømmelsesniveauet.
 
 ### Afvis indsendelse
 
