@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduktion](README.md)
-* [Brugerprofil](user-profil.md)
+* [Brugerprofil](user-profile.md)
 * [Authoring](authoring.md)
 * [Bedømmelse](reviewing.md)
 * [Indsendelser](submissions.md)
