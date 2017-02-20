@@ -11,11 +11,11 @@ Redaktøren kan udvælge en medredaktør ved at klikke på linket ’Tilføj’ 
 
 ### Send til bedømmelse
 
-Videresend indsendelsen til [bedømmelsestrinnet](/bedoemmelsestrinnet.md), hvor det vil blive peer reviewet.
+Videresend indsendelsen til [bedømmelsestrinnet](/review.md), hvor det vil blive peer reviewet.
 
 ### Send til manuskriptredigering
 
-Fremsend indsendelsen til [manuskriptredigeringstrinnet](/manuskriptredigering.md), hvis du vil springe bedømmelsesprocessen over.
+Fremsend indsendelsen til [manuskriptredigeringstrinnet](/copyediting.md), hvis du vil springe bedømmelsesprocessen over.
 
 ### Afvis indsendelse
 
