@@ -26,12 +26,12 @@ Der er mange roller og de fleste tidsskrifter har ikke brug for dem alle. Det st
 Du kan redigere eller fjerne eksisterende roller eller tilføje nye roller. Alle roller er blevet tildelt én eller flere adgangsmuligheder, som tillader dem at foretage forskellige handlinger i systemet:
 
 * Forfattere kan foretage nye indsendelser
-* Bedømmer aktiveres når de tilføjes til indsendelse i [det redaktionelle workflow](/det-redaktionelle-workflow.md) og får derved adgang til det trin, hvortil de er knyttet.
+* Bedømmer aktiveres når de tilføjes til indsendelse i [det redaktionelle workflow](/editorial-workflow.md) og får derved adgang til det trin, hvortil de er knyttet.
 * Læsere kan, som alle andre brugertyper, få adgang til den læservendte del af websitet.
-* Tidsskriftchefer har adgang til hele [det redaktionelle workflow](/det-redaktionelle-workflow.md), ligesom til de fleste indstillinger.
-* Serieredaktører og tidsskriftsmedarbejdere har kun adgang til den del af [det redaktionelle workflow](/det-redaktionelle-workflow.md), der er knyttet til deres rolle \(se nedenfor\)
+* Tidsskriftchefer har adgang til hele [det redaktionelle workflow](/editorial-workflow.md), ligesom til de fleste indstillinger.
+* Serieredaktører og tidsskriftsmedarbejdere har kun adgang til den del af [det redaktionelle workflow](/editorial-workflow.md), der er knyttet til deres rolle \(se nedenfor\)
 
-I tilknytning til adgangsniveauerne kan du begrænse roller til specifikt udvalgte trin i [det redaktionelle workflow](/det-redaktionelle-workflow.md). Dette er brugbart for professionelle assistenter, såsom manuskriptredaktører eller layout-redaktører, som hjælper på ét eller to trin i workflowet.
+I tilknytning til adgangsniveauerne kan du begrænse roller til specifikt udvalgte trin i [det redaktionelle workflow](/editorial-workflow.md). Dette er brugbart for professionelle assistenter, såsom manuskriptredaktører eller layout-redaktører, som hjælper på ét eller to trin i workflowet.
 
 ## Webstedets adgangsmuligheder
 
