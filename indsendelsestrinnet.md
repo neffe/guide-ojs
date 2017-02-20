@@ -5,7 +5,7 @@
 
 Her vurderer redaktøren de indsendte filer og beslutter, om de skal sendes videre til bedømmelse.
 
-Redaktøren kan udvælge en medredaktør ved at klikke på linket ’Tilføj’ i deltagerfeltet i højremenuen, eller starte en drøftelse med forfatteren for at diskutere eventuelle spørgsmål i feltet ’Drøftelser forud for bedømmelse’.
+Redaktøren kan udvælge en medredaktør ved at klikke på linket ’Tilføj’ i deltagerfeltet i højremenuen, eller starte en drøftelse med forfatteren for at diskutere eventuelle spørgsmål i feltet ’Drøftelser forud for bedømmelse’. 
 
 ## Redaktionelle valgmuligheder
 
