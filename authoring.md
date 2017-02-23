@@ -5,11 +5,11 @@
 3. [Foretag en indsendelse](authoring.md#make-submission)
 4. [Følg indsendelse](authoring.md#track-submission)
 
-## Overblik {#orientation}
+## <a name="orientation"></a>Overblik
 
 Når du er logget ind som forfatter, vil du se to felter: ’Mine tildelte’ og ’Mine indsendelser’. Hvis du aldrig tidligere har indsendt materiale til dette tidsskrift, vil begge felter være tomme.
 
-## Starthjælp
+## <a name="author-actions"></a>Starthjælp
 
 I højre side af skærmbilledet vælges ’Ny indsendelse’ for at påbegynde en ny indsendelse.
 
