@@ -3,7 +3,7 @@
 1. Overblik
 2. Starthjælp
 3. [Foretag en indsendelse](authoring.md#make-submission)
-4. [Følg indsendelse](#følg-din-indsendelse)
+4. [Følg indsendelse](authoring.md#track-submission)
 
 ## Overblik {#orientation}
 
@@ -57,7 +57,7 @@ Tag dig tid til at gennemse de oplysninger, du har indsat. Du kan stadig vende t
 
 Indsendelsen er afsluttet. Hvis du vil læse mere om at følge dit indsendelse, gå til næste afsnit.
 
-## Følg din indsendelse
+## <a name="track-submission"></a> Følg din indsendelse
 
 Mens din indsendelse er under bedømmelse, kan du holde øje med dens status ved at logge på websiden og vælge siden ’[Indsendelser](/submissions.md)’.
 
