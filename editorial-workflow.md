@@ -3,7 +3,7 @@
 1. Introduktion
 2. [Håndtering af indsendelsesdetaljer](#håndtering-af-indsendelsesdetaljer)
 3. [Redaktionelle valgmuligheder](editorial-workflow.md#editorial-actions)
-4. [Deltagere](editorial-workflow.md#deltagere)
+4. [Deltagere](editorial-workflow.md#participants)
 
 Det redaktionelle workflow tillader dig at overvåge en indsendelse fra den indledende vurdering, gennem bedømmelse, manuskriptredigering og til produktion, hvor det enkelte nummer klargøres til publikation.
 
@@ -37,7 +37,7 @@ Du kan hurtigt tilføje filer fra ’[Forlagsbibliotek](/settings.md#forlagsbibl
 
 Læs hjælpeteksterne til hvert trin for at lære mere om de redaktionelle valgmuligheder.
 
-## <a name="deltagere"></a>Deltagere
+## <a name="participants"></a>Deltagere
 
 I højre-menuen, på hvert trin i den redaktionelle proces, finder du en liste over de brugere, der har adgang til det pågældende trin. Du kan tilføje redaktionelle medarbejdere, manuskriptredaktører, layoutredaktører og andre brugere, som du ønsker, skal have adgang.
 
