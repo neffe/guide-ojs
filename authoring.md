@@ -2,7 +2,7 @@
 
 1. Overblik
 2. Starthjælp
-3. [Foretag en indsendelse](#foretag-en-indsendelse)
+3. [Foretag en indsendelse](authoring.md#make-submission)
 4. [Følg indsendelse](#følg-din-indsendelse)
 
 ## Overblik {#orientation}
@@ -13,7 +13,7 @@ Når du er logget ind som forfatter, vil du se to felter: ’Mine tildelte’ og
 
 I højre side af skærmbilledet vælges ’Ny indsendelse’ for at påbegynde en ny indsendelse.
 
-## Foretag en indsendelse
+## <a name="make-submission"></a>Foretag en indsendelse
 
 Hvis du er logget ind, men ikke finder indsendelsessiden, kan du være placeret på tidsskriftets læserside. Er det tilfældet, skal du finde linket til din brugerprofil \(’Se profil’\) og dernæst klikke på linket ’Indsendelser’ i venstremenuen.
 
