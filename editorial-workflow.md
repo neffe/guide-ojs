@@ -3,7 +3,7 @@
 1. Introduktion
 2. [Håndtering af indsendelsesdetaljer](#håndtering-af-indsendelsesdetaljer)
 3. [Redaktionelle valgmuligheder](#redaktionelle-valgmuligheder)
-4. [Deltagere](editorial-workflow.md#participants)
+4. [Deltagere](#participants)
 
 Det redaktionelle workflow tillader dig at overvåge en indsendelse fra den indledende vurdering, gennem bedømmelse, manuskriptredigering og til produktion, hvor det enkelte nummer klargøres til publikation.
 
