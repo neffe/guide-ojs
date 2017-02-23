@@ -37,7 +37,7 @@ Du kan hurtigt tilføje filer fra ’[Forlagsbibliotek](/settings.md#forlagsbibl
 
 Læs hjælpeteksterne til hvert trin for at lære mere om de redaktionelle valgmuligheder.
 
-## <a name="participants"></a>Deltagere
+## <a name="participants">Deltagere</a>
 
 I højre-menuen, på hvert trin i den redaktionelle proces, finder du en liste over de brugere, der har adgang til det pågældende trin. Du kan tilføje redaktionelle medarbejdere, manuskriptredaktører, layoutredaktører og andre brugere, som du ønsker, skal have adgang.
 
