@@ -1,7 +1,7 @@
 # Det redaktionelle workflow
 
 1. Introduktion
-2. [Håndtering af indsendelsesdetaljer](#håndtering-af-indsendelsesdetaljer)
+2. [Håndtering af indsendelsesdetaljer](editorial-workflow.md#manage-submission-details)
 3. [Redaktionelle valgmuligheder](editorial-workflow.md#editorial-actions)
 4. [Deltagere](editorial-workflow.md#participants)
 
@@ -9,7 +9,7 @@ Det redaktionelle workflow tillader dig at overvåge en indsendelse fra den indl
 
 Hvert faneblad i workflowet giver dig adgang til den information, de værktøjer og indlæg \(drøftelser\), du behøver for at udføre de opgaver, der hører under det pågældende trin i den redaktionelle proces. Du kan [tilføje flere deltagere](#deltagere). Du vil løbende blive præsenteret for et udvalg af [redaktionelle valgmuligheder](#redaktionelle-valgmuligheder), der er relevant for det enkelte trin i processen.
 
-## Håndtering af indsendelsesdetaljer
+## <a name="manage-submission-details"></a>Håndtering af indsendelsesdetaljer
 
 Indsendelsesdetaljer vises øverst på siden. Her findes værktøjer til at håndtere indsendelsens metadata og redaktionelle historik. De data, der herfra knyttes til indsendelsen forbliver indskrevet på alle trin i den redaktionelle proces.
 
