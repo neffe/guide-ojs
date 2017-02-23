@@ -2,7 +2,7 @@
 
 1. Introduktion
 2. [Håndtering af indsendelsesdetaljer](#håndtering-af-indsendelsesdetaljer)
-3. [Redaktionelle valgmuligheder](#redaktionelle-valgmuligheder)
+3. [Redaktionelle valgmuligheder](editorial-workflow.md#editorial-actions)
 4. [Deltagere](editorial-workflow.md#deltagere)
 
 Det redaktionelle workflow tillader dig at overvåge en indsendelse fra den indledende vurdering, gennem bedømmelse, manuskriptredigering og til produktion, hvor det enkelte nummer klargøres til publikation.
@@ -31,7 +31,7 @@ Et arkiv med kvik-adgang til enhver fil, som du måtte ønske at knytte til inds
 
 Du kan hurtigt tilføje filer fra ’[Forlagsbibliotek](/settings.md#forlagsbibliotek)’ ved at klikke på ’Se dokumentbibliotek’.
 
-## Redaktionelle valgmuligheder
+## <a name="editorial-actions"></a> Redaktionelle valgmuligheder
 
 Øverst i højre-menuen på hvert trin i workflowet, vil du finde de redaktionelle valgmuligheder, der er tilgængelige for dig. Disse valg skifter for hvert trin, men i de fleste tilfælde, afslutter de det aktuelle trin og videresender indsendelsen til det næste.
 
